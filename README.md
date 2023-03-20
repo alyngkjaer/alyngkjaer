@@ -1,1 +1,2 @@
- Backend Developer. MicroServices, DevOps, Java and Go
+ Backend Developer. MicroServices, DevOps, Java and Python
+
